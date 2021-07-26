@@ -23,6 +23,6 @@ In the duration of this, analysis is generated and for further 90 days that is,
 6.Deaths<br>
 7.Recovered<br>
 # Derived attributes: 
-1. Active cases (Confirmed-Recovered-Deaths) <br>
- 2. Closed cases (Confirmed-Recovered+Deaths)<br>
-3. Mortality rate (Death/Confirmed*100)<br>
+1.Active cases (Confirmed-Recovered-Deaths) <br>
+2.Closed cases (Confirmed-Recovered+Deaths)<br>
+3.Mortality rate (Death/Confirmed*100)<br>
